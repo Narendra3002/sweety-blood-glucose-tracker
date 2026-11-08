@@ -154,3 +154,9 @@ npm test
 - More comprehensive end-to-end tests
 - Stronger accessibility and visual design
 
+
+## Submission Notes
+
+- Backend tests: 8/8 passing.
+- Frontend tests: 1/1 passing.
+- The application was tested locally with PostgreSQL.
